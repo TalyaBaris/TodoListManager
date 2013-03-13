@@ -10,7 +10,7 @@ import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
-
+//
 public class TodoListManagerActivity extends Activity {
     
 	 private ArrayAdapter<String> adapter;
