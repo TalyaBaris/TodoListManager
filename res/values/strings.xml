@@ -2,7 +2,8 @@
 <resources>
 
     <string name="hello">Hello World, TodoListManagerActivity!</string>
-    <string name="addHint">Add a new Task</string><string name="app_name">Ex2</string>
+    <string name="default_date">No due date</string><string name="addHint">Add a new Task</string><string name="app_name">Ex2</string>
+    
     
   
 

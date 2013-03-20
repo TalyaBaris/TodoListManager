@@ -4,14 +4,14 @@
     android:layout_height="fill_parent"
     android:orientation="vertical" >
 
-    <EditText
+  <!--   <EditText
         android:id="@+id/edtNewItem"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/addHint">
         <requestFocus />
-    </EditText>
+    </EditText>--> 
 
     <ListView
         android:id="@+id/lstTodoItems"
