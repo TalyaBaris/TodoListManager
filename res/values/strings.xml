@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TodoListManagerActivity!</string>
+    <string name="default_date">No due date</string><string name="addHint">Add a new Task</string><string name="app_name">Ex2</string>
+    <string name="clientKey">irluSxilcVAXFZrmraGPAjzNKnFX3PBhCKN6Z7oC</string><string name="parseApplication">yyD9I63F4zOecKEzAnivMLVdnyhW4Nt0IT0UTE03</string>
+    
+    
+    
+  
+
+</resources>
